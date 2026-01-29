@@ -6,7 +6,7 @@
   <link href="https://zhizhi2213.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhizhi2213.github.io/"/>
-  <updated>2026-01-26T11:01:41.220Z</updated>
+  <updated>2026-01-28T10:26:20.390Z</updated>
   <id>https://zhizhi2213.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>&#39;java语法糖详解&#39;</title>
+    <link href="https://zhizhi2213.github.io/2026/01/26/java%E8%AF%AD%E6%B3%95%E7%B3%96%E8%AF%A6%E8%A7%A3/"/>
+    <id>https://zhizhi2213.github.io/2026/01/26/java%E8%AF%AD%E6%B3%95%E7%B3%96%E8%AF%A6%E8%A7%A3/</id>
+    <published>2026-01-26T11:33:32.000Z</published>
+    <updated>2026-01-28T10:26:20.390Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Java 语法糖&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/o4XdEMq1DL-nBS-f8Za5Aw&quot;&gt;原文&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;什么是语法糖？&quot;&gt;&lt;a href=&quot;#什么是语法糖？&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>&#39;Trae-Java环境配置&#39;</title>
